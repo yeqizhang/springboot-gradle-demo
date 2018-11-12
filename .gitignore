@@ -20,6 +20,6 @@ gen/
 proguard/
 *.log
 
-.classpath
 .project
 .settings 
+/.classpath
